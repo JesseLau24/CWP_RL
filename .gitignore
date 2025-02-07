@@ -1,0 +1,7 @@
+# ignore myenvs
+venvs/
+.env/
+myenvs/
+
+# ignore .ipynb checkpoints
+.ipynb_checkpoints/
