@@ -5,3 +5,9 @@ myenvs/
 
 # ignore .ipynb checkpoints
 .ipynb_checkpoints/
+
+# ignore all big zip files
+*.zip
+
+# ignore sac_logs
+sac_logs/*
