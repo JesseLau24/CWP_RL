@@ -10,4 +10,4 @@ myenvs/
 *.zip
 
 # ignore sac_logs
-sac_logs/*
+sac_logs/
