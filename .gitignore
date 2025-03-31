@@ -11,3 +11,10 @@ myenvs/
 
 # ignore sac_logs
 sac_logs/
+
+# Example .gitignore (Modify as needed)
+*.csv
+*.pkl
+*.h5
+*.joblib
+*.log
