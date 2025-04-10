@@ -1,5 +1,6 @@
-This project is just for fun. I'll test out if RL training is possible on an edge device like Raspberry Pi CM4 device (uConsole from ClockWorkPi).
+Don't try this at home.
+This is a project for combining LSTM for return prediction and MVO for portfolio allocation.
 
-At the same time, I am going to combine MVO and Random Forest and etc for creating a portfolio that balances the risk and return.
+LSTM is currently overfitting, so I assume it would be nice to extract the most relevent features for price action first, instead of training with all indicators and price data. Hopefully this would reduce the noise.
 
 I'll see what the results would be and that's all I can say for now.
